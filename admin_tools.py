@@ -13,8 +13,8 @@ DB_FILE = "db.sqlite"
 # ===============================
 # Configuration - set admin creds here
 # ===============================
-ADMIN_EMAIL = "krrish.singh06@gmail.com"
-ADMIN_APP_PASSWORD = "pljmzndewxvqvhuf"   # App password (use env vars in production)
+ADMIN_EMAIL = "YOUR EMAIL ID"
+ADMIN_APP_PASSWORD = "YOUR APP PASSWORD FOR ADMIN EMAIL"   # App password
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 DEBUG = False   # Set True temporarily for detailed SMTP logs
